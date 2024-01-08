@@ -7,4 +7,4 @@
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
-1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/) | [C++](problems/1031-maximum-sum-of-two-non-overlapping-subarrays/main.cpp) [Python](problems/1031-maximum-sum-of-two-non-overlapping-subarrays/main.py) | _O(n)_ | _O(n)_ | Medium | PreSum
+1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/) | [C++](problems/1031-maximum-sum-of-two-non-overlapping-subarrays/main.cpp) [Python](problems/1031-maximum-sum-of-two-non-overlapping-subarrays/main.py) [Rust](problems/1031-maximum-sum-of-two-non-overlapping-subarrays/main.rs) | _O(n)_ | _O(n)_ | Medium | PreSum
