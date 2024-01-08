@@ -1,4 +1,4 @@
-# LeetCode Solutions in Python and modern C++
+# LeetCode Solutions in Python, modern C++ and Rust
 
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20C++%20%2F%20Rust-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
